@@ -8,9 +8,10 @@ date: "2023-02-13"
 
 - author: RachelBai
 
-- contributor: Jessie Hughes
+- contributor: Jessie Hughes(https://github.com/TheThinMint/assignment-3-jah667)
 
-- The links to personal Github accounts
+- The links to personal Github accounts:
+https://github.com/RachelBai0525/assignment-3-zb93
 
 - image with caption:
 
